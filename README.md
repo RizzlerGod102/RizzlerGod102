@@ -7,8 +7,10 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 ## 💻 Programming/Development Languages
 - 🟨 JavaScript
 - ⚡ Node.js
+- 🚀 Express.js
 - 🌐 HTML
 - 🎨 CSS
+
 ---
 
 ✨ I love **learning by building and watching tutorials** — typing out code, experimenting, and understanding how everything works under the hood.
