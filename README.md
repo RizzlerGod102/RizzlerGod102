@@ -4,7 +4,7 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 
 ---
 
-## 💻 Programming/Web Development Languages
+## 💻 Languages & Tools
 
 - 🟨 JavaScript
 - 🐍 Python
