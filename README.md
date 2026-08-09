@@ -1,6 +1,6 @@
 ## Hi there, I'm Shaurya 👋
 
-I'm a Diploma of Web Development student passionate about building modern and interactive web applications. I enjoy working with HTML, CSS, JavaScript, Node.js, Express.js, and React, learning new technologies, and improving my skills through hands-on projects.
+I'm a Diploma of Front-End Web Development student passionate about building modern and interactive web applications. I enjoy working with HTML, CSS, JavaScript, Node.js, Express.js, and React, learning new technologies, and improving my skills through hands-on projects.
 
 ---
 
