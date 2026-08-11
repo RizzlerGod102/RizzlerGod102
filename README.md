@@ -6,13 +6,15 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 
 ## 💻 Languages & Tools
 
-- 🟨 JavaScript
-- 🐍 Python
-- 🟣 PHP
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ Node.js
-- 🚀 Express.js
+* 🟨 JavaScript
+* 🐍 Python
+* 🔷 C#
+* 🟣 PHP
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ Node.js
+* 🚀 Express.js
+
 
 👨‍💻 My Programming Journey
 
