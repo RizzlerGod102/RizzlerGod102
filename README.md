@@ -4,8 +4,7 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&layout=donut-vertical&langs_count=100&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&layout=donut-vertical&langs_count=100&hide_values=true)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&layout=donut-vertical&langs_count=100&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&layout=donut-vertical&langs_count=100&hide_values=true&theme=transparent)
 
 ## 💻 Languages & Tools
 
