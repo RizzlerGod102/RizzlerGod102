@@ -4,7 +4,8 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&langs_count=4&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&langs_count=4&hide_values=true)
+<!-- This forces the card to show up to 10 languages and hides standard layout files -->
+[![Shaurya's Top Languages](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
 
 
 ## 💻 Languages & Tools
