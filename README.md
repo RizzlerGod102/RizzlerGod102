@@ -4,8 +4,7 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 
 ---
 
-[![Shaurya's Top Languages](https://vercel.app)](https://github.com)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&langs_count=4&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&langs_count=4&hide_values=true)
 
 
 ## 💻 Languages & Tools
