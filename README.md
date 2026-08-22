@@ -5,9 +5,6 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 ---
 
 
-![My GitHub Stats](https://vercel.app)
-
-
 ## 💻 Languages & Tools
 
 * 🟨 JavaScript
