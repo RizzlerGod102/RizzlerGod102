@@ -6,16 +6,13 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&langs_count=100&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ShauryaParmar2102&langs_count=100&theme=transparent)
 
-## 💻 Languages & Tools
+## 🛠️ Tools & Technologies
 
-* 🟨 JavaScript
-* 🐍 Python
-* 🔷 C#
-* 🟣 PHP
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ Node.js
-* 🚀 Express.js
+⚡ Node.js
+
+🚀 Express.js
+
+⚛️ React
 
 
 👨‍💻 My Programming Journey
